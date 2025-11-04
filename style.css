@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-image:url(Assets/image-header.png);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+nav {
+    padding: 24px;
+    ul{
+        display: inline-block;
+        float: right;
+    }
+    li{
+display: inline-block;
+}
+color: white;
+}
+
+h1{
+    font-family: "DM Sans", sans-serif;
+  font-weight: 400;
+    font-size: 120px;
+    color: white;
+
+
+   strong{
+    font-size: 50px;
+   } 
+}
+.divh1{
+width: 30%;
+margin: auto;
+}
+h2{
+    color: white;
+    width: 30%;
+margin: auto;
+   
+}
+div a{
+display: inline-block;
+width: 30%;
+margin: auto;
+}
+main{
+    background-color: black;
+}
+p{
+    color: white;
+    width: 30%;
+margin: auto;
+}
+form{
+    color: white;
+}
